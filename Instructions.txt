@@ -1,0 +1,9 @@
+The goal of the game is to eat smaller circles, 
+and to avoid being eaten by larger circles. You can 
+move your circle using the mouse. You can also 
+split your circle into halves by pressing the 
+spacebar. You may not split again while your circle 
+is still split. To rejoin your circles, press
+shift+spacebar. Once your score reaches 250, 
+you win the game. However, if any of the enemies 
+reach a score of 250, you lose. Enjoy!
